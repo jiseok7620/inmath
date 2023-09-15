@@ -1,17 +1,17 @@
 url: https://jiseok7620.github.io
-baseurl: /inmath/
+baseurl: /inmath
 
 # Site settings
-title: Awesome Title
+title: Inmath
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "수학학원"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 이름
   pic: 1
-  position: Lead Designer
+  position: 담당
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: 이름
   pic: 2
-  position: Lead Marketer
+  position: 담당
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: 이름
   pic: 3
-  position: Lead Developer
+  position: 담당
   social:
     - title: twitter
       url: #

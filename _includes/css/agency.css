@@ -791,6 +791,11 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
+    height: auto;
+}
+
+.img-navi2{
+    height: 211.92px;
 }
 
 .portfolio-modal .modal-content p.item-intro {
